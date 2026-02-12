@@ -1,7 +1,7 @@
 ## RoshambooGOAT
 RoshambooGOAT is a goated repeated-Roshamboo (Rock-Paper-Scissors) agent that can beat 40/43 benchmark roshamboo agents described in this paper: 
 
-Lanctot, Marc, et al. "Population-based evaluation in repeated rock-paper-scissors as a benchmark for multiagent reinforcement learning." arXiv preprint arXiv:2303.03196 (2023).
+[Lanctot, Marc, et al. "Population-based evaluation in repeated rock-paper-scissors as a benchmark for multiagent reinforcement learning." arXiv preprint arXiv:2303.03196 (2023).](https://arxiv.org/pdf/2303.03196)
 
 
 ### Game Setup:
